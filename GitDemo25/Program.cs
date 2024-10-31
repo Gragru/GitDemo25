@@ -6,6 +6,8 @@
         {
             Console.WriteLine("Hejsan Världen igen.");
             Console.WriteLine("Böter: " + Helpers.CalculateFine(15, 5));
+
+            Helpers.PrintText("Hej från Anders kod!");
         }
     }
 }
